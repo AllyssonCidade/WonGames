@@ -32,11 +32,7 @@ const WrapperModifiers = {
         & + span{
             margin-left: ${theme.spacings.xxsmall}
         }
-    }
-
-   `
-
-   
+    }`
 }
 
 export const Wrapper = styled.button<WrapperProps>`

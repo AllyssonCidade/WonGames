@@ -11,6 +11,12 @@ export const Default = {
   argTypes: {
     color: {
       control: { type: 'select' },
+    },
+    size:{
+      control: { type: 'select' }, 
+    },
+    lineColor:{
+      control: { type: 'select' }, 
     }
   }
 }
